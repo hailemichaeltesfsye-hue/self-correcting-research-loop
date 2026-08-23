@@ -1,0 +1,10 @@
+.env
+checkpoints.db
+checkpoints.db-shm
+checkpoints.db-wal
+report_*.md
+graph.png
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/*.egg-info/
